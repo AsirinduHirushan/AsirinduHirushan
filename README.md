@@ -85,6 +85,10 @@ I'm an IT undergraduate focused on developing practical cybersecurity skills thr
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
+  <a href="https://www.facebook.com/asirindu.hirushan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
 </div>
 
 ---
